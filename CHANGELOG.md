@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-27)
+## Unreleased (2026-11-11)
 
 <section class="features">
 
 ### Features
 
+-   [`b148910`](https://github.com/stdlib-js/stdlib/commit/b1489107d073efb157547f41a2ea54406acae91a) - add `fft/base/fftpack/ndarray/float64/sinqi` [(#14284)](https://github.com/stdlib-js/stdlib/pull/14284)
+-   [`8e0799e`](https://github.com/stdlib-js/stdlib/commit/8e0799ea1f7bb35806f5b3b15da7a02677b7bc0d) - update `fft/base/fftpack/ndarray/float64` TypeScript declarations [(#15582)](https://github.com/stdlib-js/stdlib/pull/15582)
 -   [`0a0744c`](https://github.com/stdlib-js/stdlib/commit/0a0744ce140bfd70e4252a1269157e15e8b66b14) - add `rfftf` to namespace
 -   [`5ebbb6a`](https://github.com/stdlib-js/stdlib/commit/5ebbb6a4f2bd516554edd41c29ef1164f2b1d337) - add `fft/base/fftpack/ndarray/float64/rfftf` [(#15539)](https://github.com/stdlib-js/stdlib/pull/15539)
 -   [`5611f3c`](https://github.com/stdlib-js/stdlib/commit/5611f3ce65c70238ce7f032dfaea104745f6be4f) - add `fft/base/fftpack/ndarray/float64/cosqi` [(#14095)](https://github.com/stdlib-js/stdlib/pull/14095)
@@ -26,6 +28,9 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`b148910`](https://github.com/stdlib-js/stdlib/commit/b1489107d073efb157547f41a2ea54406acae91a) - **feat:** add `fft/base/fftpack/ndarray/float64/sinqi` [(#14284)](https://github.com/stdlib-js/stdlib/pull/14284) _(by Gunj Joshi)_
+-   [`8e0799e`](https://github.com/stdlib-js/stdlib/commit/8e0799ea1f7bb35806f5b3b15da7a02677b7bc0d) - **feat:** update `fft/base/fftpack/ndarray/float64` TypeScript declarations [(#15582)](https://github.com/stdlib-js/stdlib/pull/15582) _(by stdlib-bot)_
 -   [`f67a19a`](https://github.com/stdlib-js/stdlib/commit/f67a19ad507316f14a9e6078c9983732fa46446d) - **docs:** update namespace table of contents [(#15584)](https://github.com/stdlib-js/stdlib/pull/15584) _(by stdlib-bot)_
 -   [`25aba1c`](https://github.com/stdlib-js/stdlib/commit/25aba1c20f9ed8e1e63993ff7dc32ed81b5e748d) - **chore:** update keywords _(by Athan Reines)_
 -   [`0a0744c`](https://github.com/stdlib-js/stdlib/commit/0a0744ce140bfd70e4252a1269157e15e8b66b14) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
@@ -47,10 +52,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
